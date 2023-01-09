@@ -1367,7 +1367,7 @@ a:focus {
 }
 
 .blog .blog-meta i {
-    color: #414141;
+    color: #EF233C;
     margin-right: 5px;
 }
 
@@ -1382,7 +1382,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: #EF233C;
+    background:#414141;
 }
 
 .contact .container-fluid {
